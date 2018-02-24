@@ -1,2 +1,2 @@
-# GAMP2-server-java
-Group Address Messaging Server (protocol v2.0) written in Java
+# Java TCP group server
+Manages devices by groups and send messages to groups
